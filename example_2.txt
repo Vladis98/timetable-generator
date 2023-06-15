@@ -1,0 +1,10 @@
+101 102 103 104 105 106
+Mathematics ( 2 1 ) 101 102 103 104 105
+Circuit_equations ( 1 1 ) 102 103 106
+Physics ( 1 1 ) 101 102 103 104 105 106
+Programming ( 1 1 ) 104 105 106
+Data_Networks ( 1 0 ) 102 103 104 106
+Linear_Algebra ( 2 1 ) 101 104 105 106
+English_Language ( 0 1 ) 104 106
+Electrical_Engineering ( 1 1 ) 101 103 105
+Electronic_Components ( 1 1 ) 101 102 103

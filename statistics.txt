@@ -1,0 +1,5 @@
+The number of groups: 5
+The number of subjects: 8
+The number of lectures per week: 10
+The number of seminars per week: 27
+The number of iterations to find a suitable schedule: 21087

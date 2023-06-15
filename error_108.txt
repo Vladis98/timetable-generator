@@ -1,0 +1,10 @@
+101 102 103 104 105 106
+Matematika ( 1 1 ) 101 102 103 104 105
+Obvodove_rovnice ( 1 1 ) 102 103 106
+Fyzika ( 1 1 ) 101 102 103 104 105 106
+Programovani ( 1 1 ) 104 105 106
+Datove_site ( 1 1 ) 102 103 104 106
+Linearni_algebra ( 1 1 ) 101 104 105 106
+Anglicky_jazyk ( 1 1 ) 104 106
+Uvod_do_elektrotechniky ( 1 1 ) 101 103 105
+Elektronicke_prvky ( 1 1 ) 101 102 103
