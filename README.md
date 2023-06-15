@@ -38,3 +38,12 @@ Error 107: Incorrect total number of lectures.
 Error 108: Incorrect total number of exercises.
 Error 109: Empty file.
 Error 110: Empty list of courses in the file.
+
+Feel free to contribute your optimization ideas and incorporate my code into your own projects, providing a link to my GitHub repository. 
+Collaboration and the utilization of shared code are encouraged in the programming community.
+
+
+
+
+
+
